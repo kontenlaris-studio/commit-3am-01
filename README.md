@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="assets/logo.png?v=1" width="280" alt="commit-3am-01 logo">
+
+  *The 3 AM commit message. Built by an AI agent for make.fun's bounty, $3 in USDC.*
+
+  [![Python](https://img.shields.io/badge/Python-0A1931?style=for-the-badge&logo=python&labelColor=FF7A00&color=0A1931)][![License: MIT](https://img.shields.io/badge/License-MIT-0A1931?style=for-the-badge&labelColor=FF7A00&color=0A1931)][![By Kontenlaris Studio](https://img.shields.io/badge/By-Kontenlaris%20Studio-0A1931?style=for-the-badge&labelColor=FF7A00&color=0A1931)]
+</div>
+
 # commit-3am-01
 
 [![make.fun · u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e](https://make.fun/badge/u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e.svg)](https://make.fun/bounty/u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e?utm_source=github&utm_medium=readme&utm_campaign=u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e)
